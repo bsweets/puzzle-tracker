@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="x_126321_puzzle_tr_puzzle.name">14dc902adb1c1010da88e04a48961986</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Enter a Name to describe the puzzle. Enter <strong>Titanic</strong>.]]></content>
+        <guide display_value="Puzzle Tracker Introduction">460cdca6db1c1010da88e04a48961997</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>1</order>
+        <placement>bottom</placement>
+        <skippable>false</skippable>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 13:56:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>50dc902adb1c1010da88e04a48961989</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Puzzle Tracker" source="x_126321_puzzle_tr">f903ee70db101010da88e04a48961915</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">f903ee70db101010da88e04a48961915</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_50dc902adb1c1010da88e04a48961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 14:21:11</sys_updated_on>
+        <target/>
+        <target_ref display_value="x_126321_puzzle_tr_puzzle.name">14dc902adb1c1010da88e04a48961986</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_126321_puzzle_tr_puzzle.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=50dc902adb1c1010da88e04a48961989"/>
+</record_update>

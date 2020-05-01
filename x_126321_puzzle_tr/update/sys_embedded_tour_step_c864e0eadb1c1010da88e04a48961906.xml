@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="a[id=&quot;add.x_126321_puzzle_tr_puzzle.imag">8064e0eadb1c1010da88e04a48961905</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Add an image. For more about adding images, visit <a href="https://devportaldocs.service-now.com/" target="blank" rel="noopener noreferrer nofollow">the Developer Site</a>.]]></content>
+        <guide display_value="Puzzle Tracker Introduction">460cdca6db1c1010da88e04a48961997</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>4</order>
+        <placement>bottom</placement>
+        <skippable>false</skippable>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 14:29:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c864e0eadb1c1010da88e04a48961906</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Puzzle Tracker" source="x_126321_puzzle_tr">f903ee70db101010da88e04a48961915</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">f903ee70db101010da88e04a48961915</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_c864e0eadb1c1010da88e04a48961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 15:39:20</sys_updated_on>
+        <target/>
+        <target_ref display_value="a[id=&quot;add.x_126321_puzzle_tr_puzzle.imag">8064e0eadb1c1010da88e04a48961905</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_126321_puzzle_tr_puzzle.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=c864e0eadb1c1010da88e04a48961906"/>
+</record_update>

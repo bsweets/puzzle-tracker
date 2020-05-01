@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element">
+    <sys_embedded_tour_element action="INSERT_OR_UPDATE">
+        <cell_edit/>
+        <cell_types/>
+        <col/>
+        <cxs_results/>
+        <element_type>textbox</element_type>
+        <field>name</field>
+        <field_action/>
+        <field_header/>
+        <filters/>
+        <form_buttons>additional_actions</form_buttons>
+        <form_element>field</form_element>
+        <form_section/>
+        <frameset>nav_filter</frameset>
+        <list_element>ui_action</list_element>
+        <list_header/>
+        <manual_css/>
+        <name>x_126321_puzzle_tr_puzzle.name</name>
+        <record_id/>
+        <related_field/>
+        <related_links/>
+        <related_list_element>ui_action</related_list_element>
+        <related_lists/>
+        <related_table/>
+        <row/>
+        <sys_class_name>sys_embedded_tour_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 13:56:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>14dc902adb1c1010da88e04a48961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_126321_puzzle_tr_puzzle.name</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Puzzle Tracker" source="x_126321_puzzle_tr">f903ee70db101010da88e04a48961915</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">f903ee70db101010da88e04a48961915</sys_scope>
+        <sys_update_name>sys_embedded_tour_element_14dc902adb1c1010da88e04a48961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 13:56:01</sys_updated_on>
+        <table>x_126321_puzzle_tr_puzzle</table>
+        <type>form</type>
+        <ui_action/>
+    </sys_embedded_tour_element>
+</record_update>
